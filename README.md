@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Akash. Nice to Meet you !!
 
 - 🔭 I’m currently working as a Senior Software Backend Engineer
 - 💬 Ask me about System Design, Scalability, Distributed Systems, Database Management System (DBMS) & DSA
@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Akash_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashky23/) 
 [![Mail Badge](https://img.shields.io/badge/-Akash_Kumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashky.236@gmail.com)
 
-#### Top Technologies
+#### 🛠️ Top Technologies
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,8 +31,12 @@
 
 ### My stats ⭐
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashky23&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashky23&layout=donut&hide=html,css,makefile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashky23&show_icons=true&theme=tokyonight" alt="Akash's GitHub stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashky23&layout=donut&hide=html,css,makefile&theme=tokyonight" alt="Top Langs" />
+  </a>
+</div>
 
 ### Profile views counter 👁️‍🗨️👁️‍🗨️
 [![AKASH KUMAR profile views](https://u8views.com/api/v1/github/profiles/33580834/views/day-week-month-total-count.svg)](https://u8views.com/github/ashky23)
