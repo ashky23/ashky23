@@ -33,9 +33,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashky23&show_icons=true&theme=tokyonight" alt="Akash's GitHub stats" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashky23&layout=donut&hide=html,css,makefile&theme=tokyonight" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashky23&layout=donut&hide=html,css,makefile&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ### Profile views counter 👁️‍🗨️👁️‍🗨️
