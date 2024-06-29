@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Senior Software Backend Engineer
-- 💬 Ask me about System Design, Scalability, Distributed Systems, Database Management System (DBMS)& DSA
+- 💬 Ask me about System Design, Scalability, Distributed Systems, Database Management System (DBMS) & DSA
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: When I'm not coding, I love to challenge my mind with a game of chess! ♟️
 
