@@ -31,8 +31,21 @@
 ### My stats ⭐
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashky23&show_icons=true&theme=tokyonight" alt="Akash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashky23&layout=donut&hide=html,css,makefile,Jupyter%20Notebook&theme=tokyonight" alt="Top Langs" />
+  <table border="0">
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api?username=ashky23&show_icons=true&theme=tokyonight" alt="Akash's GitHub stats" />
+      </td>
+      <td rowspan="2">
+        <img src="https://raw.githubusercontent.com/ashky23/ashky23/main/coding.gif" alt="Coding GIF" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashky23&layout=donut&hide=html,css,makefile,Jupyter%20Notebook&theme=tokyonight" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### Profile views counter 👁️‍🗨️👁️‍🗨️
@@ -41,6 +54,6 @@
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
 [graphqllist]: https://youtube.com/playlist?list=PLlYbsPJVZjByzzOLWl2n15n0uQ7m8loEh&si=0NXO3LQENlDOOqdK
 
-![Alt Text](https://raw.githubusercontent.com/ashky23/ashky23/main/coding.gif)
+
 
 
