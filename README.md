@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: When I'm not coding, I love to challenge my mind with a game of chess! ♟️
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Akash_Kumar-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/ashky_23)](https://twitter.com/ashky_23) 
 [![Linkedin Badge](https://img.shields.io/badge/-Akash_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashky23/) 
