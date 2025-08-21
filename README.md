@@ -9,7 +9,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Akash_Kumar-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/ashky_23)](https://twitter.com/ashky_23) 
 [![Linkedin Badge](https://img.shields.io/badge/-Akash_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashky23/) 
-[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashky.236@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumar.akash.tech@gmail.com)
 
 #### 🛠️ Top Technologies
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black&logoWidth=30&borderRadius=20)
